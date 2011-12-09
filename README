@@ -1,0 +1,4 @@
+This project is a porting version of Flock from
+http://processingjs.org/learning/topic/flocking
+
+It integrates with OpenCV and simple function written in C
